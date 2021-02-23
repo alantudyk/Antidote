@@ -1,2 +1,2 @@
 # Against What?
-Against Interpretable & Immutable Elephant's *rap.
+Against Interpretable & Immutable Elephant *rap.
